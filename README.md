@@ -11,7 +11,7 @@ Quiero mejorar el sistema educativo en América Latina implementando software a 
 
 👨🏽‍💻 Dispongo de certificaciones y conocimiento en: Python, CSS y HTML
 
-👨🏽‍🏫 Cuento con experiencia como profesor de orientación vocacional y razonamiento abstracto
+👨🏽‍🏫 Cuento con experiencia como Psicólogo Educativo y Orientador vocacional profesional
 
 
 Contáctame por mi correo cjvalenciaq@outlook.com o envíame un mensaje privado si requieres de mis servicios o si deseas charlar.
