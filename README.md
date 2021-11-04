@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Working for a better education in Latin America.
+- 💼 &nbsp; Working to create a better education in LATAM.
 - 🤔 &nbsp; Exploring new technologies and developing solutions to improve education.
 - 🎓 &nbsp; Studying Data Scientist and Machine Learning at Platzi.
 - 🧠 &nbsp; Vocational Educational Psychologist.
