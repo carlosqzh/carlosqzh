@@ -7,8 +7,4 @@ Quiero mejorar el sistema educativo en América Latina implementando software a 
 
 📈 Manejo herramientas de metodologías ágiles.
 
-🏫 He realizado prácticas en instituciones educativas municipales.
-
 👨🏽‍💻 Dispongo de certificaciones y conocimiento en: Python, CSS y HTML
-
-👨🏽‍🏫 Cuento con experiencia como Psicólogo Educativo y Orientador vocacional profesional
